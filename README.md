@@ -7,3 +7,6 @@
 这个路径下的PersonalDictionary.db
 重启Gboard即可
 可能需要ROOT权限
+文件太大，无法上传github
+免登录下载地址
+https://www.123pan.com/s/CAp9-JQmt
